@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>app 的 bundleID</string>
+                <string>App的bundleID</string>
                 <key>bundle-version</key>
                 <string>版本号</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>测试下载IPA文件安装</string>
+                <string>App名字</string>
             </dict>
         </dict>
     </array>
